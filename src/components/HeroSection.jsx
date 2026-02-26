@@ -69,7 +69,7 @@ export default function HeroSection() {
           ref={greenBandRef}
           className="absolute top-0 left-0 h-full bg-[#4de77a] overflow-hidden whitespace-nowrap flex items-center z-0 origin-left"
         >
-          <h1 className="text-black text-4xl sm:text-6xl md:text-8xl lg:text-[9rem] font-bold tracking-[0.2em] pl-4 sm:pl-8 md:pl-16 whitespace-nowrap">
+          <h1 className="text-black text-4xl sm:text-6xl md:text-8xl lg:text-[9rem] font-bold tracking-widest pl-4 sm:pl-8 md:pl-16 whitespace-nowrap">
             WELCOME ITZFIZZ
           </h1>
         </div>
